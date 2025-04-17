@@ -6,6 +6,10 @@
 - 😃 Pronouns: He/Him
 - 🤖 Trying to learn how to make hardware
 - 😁 Very silly!!
+- 👕 I also run a store where I slap my art on clothing!
+- ✏️ Oh, and I like to do art sometimes :)
+
+  Welp, now you have a lot of info about me. Now go and use it to try find my home adress or smth idk
 
 <!---
 DetectiveSheepy/profile-configs is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
