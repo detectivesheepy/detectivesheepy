@@ -11,10 +11,8 @@
 - 👕 I also run a store where I slap my art on clothing!
 - ✏️ Oh, and I like to do art sometimes :)
 
-  ## Welp, now you have a lot of info on me.
-  Now go and use it to try find my home adress or smth idk
-
-<!---
-DetectiveSheepy/profile-configs is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="left">
+  <a href="https://open.spotify.com/user/31cy5ctvayjnoh4qsrmy5c2szjy4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cy5ctvayjnoh4qsrmy5c2szjy4&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
