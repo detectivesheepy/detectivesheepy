@@ -21,4 +21,4 @@
 [![Programs Lorenzo uses](https://skillicons.dev/icons?i=html,bitbucket,discord,bots,github,js,powershell,windows,)](https://skillicons.dev)
 
 ## Support me!
-[![patreon](https://upload.wikimedia.org/wikipedia/commons/4/49/Digital-Patreon-Logo_Black.svg)](https://www.patreon.com/c/detectivesheepy)
+[![patreon](https://github.com/detectivesheepy/patreon/blob/main/patreon.png?raw=true)](https://www.patreon.com/c/detectivesheepy)
