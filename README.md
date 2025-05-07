@@ -16,3 +16,6 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cy5ctvayjnoh4qsrmy5c2szjy4&count=5" alt="Spotify recently played"  />
   </a>
 </div>
+
+## Here are the programs I use for my work: 
+[![Programs Lorenzo uses](https://skillicons.dev/icons?i=html,bitbucket,discord,bots,github,js,powershell,windows,)](https://skillicons.dev)
