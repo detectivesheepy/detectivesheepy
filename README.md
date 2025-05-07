@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning HTML
 - 📫 How to reach me - farrancelorenzo@gmail.com
 - 🪟 I use Windows 11
-- 💬 I use Discord
-- 😃 Pronouns: He/Him
+- 💬 I use Discord (@detectivesheepy)
 - 🤖 Trying to learn how to make hardware
 - 😁 Very silly!!
 - 👕 I also run a store where I slap my art on clothing!
