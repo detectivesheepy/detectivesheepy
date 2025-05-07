@@ -11,6 +11,7 @@
 - 👕 I also run a store where I slap my art on clothing!
 - ✏️ Oh, and I like to do art sometimes :)
 
+## My epic music taste
 <div align="left">
   <a href="https://open.spotify.com/user/31cy5ctvayjnoh4qsrmy5c2szjy4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cy5ctvayjnoh4qsrmy5c2szjy4&count=5" alt="Spotify recently played"  />
