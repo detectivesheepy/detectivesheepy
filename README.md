@@ -1,3 +1,4 @@
+[![word art i made so fire](https://github.com/detectivesheepy/detectivesheepy/blob/main/word%20art%20logo.png?raw=true)](https://lorenzofarrance.straw.page)
 # 👋 Hi, I’m Lorenzo!
 
 ## Here's a bit about me...
