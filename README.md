@@ -7,8 +7,6 @@
 - 💬 I use Discord (@detectivesheepy)
 - 🤖 Trying to learn how to make hardware
 - 😁 Very silly!!
-- 👕 I also run a store where I slap my art on clothing!
-- ✏️ Oh, and I like to do art sometimes :)
 
 ## My epic music taste
 <div align="left">
