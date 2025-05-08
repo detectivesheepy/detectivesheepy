@@ -18,6 +18,6 @@
 
 ## Here are the programs I use for my work: 
 [![Programs Lorenzo uses](https://skillicons.dev/icons?i=html,bitbucket,discord,bots,github,js,powershell,windows,)](https://skillicons.dev)
-
-## Support me!
-[![patreon](https://github.com/detectivesheepy/patreon/blob/main/patreon.png?raw=true)](https://www.patreon.com/c/detectivesheepy)
+> [!IMPORTANT]
+> If you enjoy the things that I make, please consider supporting me on Patreon. **patreon.com/c/detectivesheepy**
+>
