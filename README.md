@@ -1,7 +1,6 @@
 [![word art i made so fire](https://github.com/detectivesheepy/detectivesheepy/blob/main/word%20art%20logo.png?raw=true)](https://lorenzofarrance.straw.page)
 # 👋 Hi, I’m Lorenzo! 😸
-I'm a random developer that likes to make stuff.
-
+[![gaming](https://github-readme-stats.vercel.app/api?username=detectivesheepy)](https://lorenzofarrance.straw.page)
 [![yipee](https://github.com/detectivesheepy/detectivesheepy/blob/main/yipeeeeeeeeeeeeeeeeeeeeeeee.gif?raw=true)
 
 ## Here's a bit about me...
