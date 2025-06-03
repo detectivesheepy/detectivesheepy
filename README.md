@@ -1,7 +1,8 @@
 [![word art i made so fire](https://github.com/detectivesheepy/detectivesheepy/blob/main/word%20art%20logo.png?raw=true)](https://lorenzofarrance.straw.page)
 # 👋 Hi, I’m Lorenzo! 😸
-[![gaming](https://github-readme-stats.vercel.app/api?username=detectivesheepy)](https://lorenzofarrance.straw.page)
-[![yipee](https://github.com/detectivesheepy/detectivesheepy/blob/main/yipeeeeeeeeeeeeeeeeeeeeeeee.gif?raw=true)
+[![Stats](https://github-readme-stats.vercel.app/api?username=detectivesheepy)](https://github.com/detectivesheepy/readmy)
+###  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=detectivesheepy&layout=compact)
 
 ## Here's a bit about me...
 - 🌱 I’m currently learning HTML
@@ -25,3 +26,6 @@
 ## My current skills are:
 [![Programs Lorenzo uses](https://skillicons.dev/icons?i=discord,bots,windows,powershell)](https://skillicons.dev)
 (+ PenguinMod but skillicons doesn't have it so uh yeah)
+## My current main project(s):
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=detectivesheepy&repo=simpl)](https://github.com/detectivesheepy/simpl)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=detectivesheepy&repo=Sphero-Desktoy)](https://lorenzolikesstuff.gitbook.io/desktoy)
