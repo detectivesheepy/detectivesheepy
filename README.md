@@ -20,11 +20,11 @@
 </div>
 
 ## Programs/software/websites I use:
-[![Programs Lorenzo uses](https://skillicons.dev/icons?i=html,bitbucket,discord,bots,github,js,powershell,)](https://skillicons.dev)
+[![Programs Lorenzo uses](https://skillicons.dev/icons?i=html,bitbucket,discord,bots,github,js,powershell,notion,robloxstudio,wordpress,)](https://skillicons.dev)
 ## My current OS is:
-[![Programs Lorenzo uses](https://skillicons.dev/icons?i=windows,)](https://skillicons.dev)
+[![Programs Lorenzo uses](https://skillicons.dev/icons?i=windows,linux,)](https://skillicons.dev)
 ## My current skills are:
-[![Programs Lorenzo uses](https://skillicons.dev/icons?i=discord,bots,windows,powershell)](https://skillicons.dev)
+[![Programs Lorenzo uses](https://skillicons.dev/icons?i=discord,bots,windows,powershell,notion,)](https://skillicons.dev)
 (+ PenguinMod but skillicons doesn't have it so uh yeah)
 ## My current main project(s):
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=detectivesheepy&repo=simpl)](https://github.com/detectivesheepy/simpl)
