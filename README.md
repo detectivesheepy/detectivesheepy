@@ -29,4 +29,3 @@
 ## My current main project(s):
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=detectivesheepy&repo=simpl)](https://github.com/detectivesheepy/simpl)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=detectivesheepy&repo=Sphero-Desktoy)](https://lorenzolikesstuff.gitbook.io/desktoy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=detectivesheepy&repo=gitintoit-terminal)](https://github.com/detectivesheepy/gitintoit-terminal)
