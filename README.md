@@ -29,3 +29,8 @@
 ## My current main project(s):
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=detectivesheepy&repo=simpl)](https://github.com/detectivesheepy/simpl)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=detectivesheepy&repo=Sphero-Desktoy)](https://lorenzolikesstuff.gitbook.io/desktoy)
+## DetectiveGo
+DetectiveGo is my own "Google killer". It's probably never gonna kill Google, but it's a fun project to make and work on.
+###
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=detectivesheepy&repo=detectivego)](https://github.com/detectivesheepy/detectivego)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=detectivesheepy&repo=DetectivePedia)](https://github.com/detectivesheepy/DetectivePedia)
