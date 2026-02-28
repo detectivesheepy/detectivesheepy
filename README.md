@@ -2,6 +2,7 @@
 <details>
 <summary>✨ What I use</summary>
 <img src="skills.png"/>
+  also penguinmod and vercel :o
 </details>
 <details>
 <summary>😁 About me</summary>
