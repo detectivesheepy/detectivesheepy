@@ -1,4 +1,4 @@
-[![error](https://github.com/detectivesheepy/detectivesheepy/blob/main/error-@firefly.png?raw=true)](https://lorenzofarrance.straw.page)
+[![error](https://github.com/detectivesheepy/detectivesheepy/blob/main/error-@firefly.png?raw=true)](https://lorenzolikesstuff.com)
 <details>
 <summary>✨ What I use</summary>
 <img src="skills.png"/>
